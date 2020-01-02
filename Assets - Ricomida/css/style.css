@@ -1,0 +1,26 @@
+body {
+  font-family: "Lobster", cursive;
+  font-family: "Cabin", sans-serif;
+}
+.logo {
+  font-family: "Lobster", cursive;
+}
+
+#recetas li {
+  line-height: 40px;
+  font-size: 24px;
+}
+
+.carousel-indicators li {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: black;
+}
+
+#contacto {
+  background-color: #dc3545;
+}
+footer {
+  font-family: "Lobster", cursive;
+}
